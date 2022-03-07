@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: SleepingBarber-DiningPhilosophersProblem
   annotations:
-    github.com/project-slug: burakyccl/SleepingBarber-DiningPhilosophersProblem
+    github.com/project-slug: burakyccl/https://github.com/burakyccl/SleepingBarber-DiningPhilosophersProblem
     backstage.io/techdocs-ref: value
 spec:
   type: other
