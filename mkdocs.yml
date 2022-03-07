@@ -1,8 +1,0 @@
-site_name: "SleepingBarber-DiningPhilosophersProblem"
-site_description: "SleepingBarber-DiningPhilosophersProblem"
-
-nav:
-  - Introduction: index.md
-
-plugins:
-  - techdocs-core
