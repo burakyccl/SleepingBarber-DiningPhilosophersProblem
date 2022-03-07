@@ -4,6 +4,7 @@ metadata:
   name: SleepingBarber-DiningPhilosophersProblem
   annotations:
     github.com/project-slug: burakyccl/SleepingBarber-DiningPhilosophersProblem
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
