@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SleepingBarber-DiningPhilosophersProblem
+  annotations:
+    github.com/project-slug: burakyccl/SleepingBarber-DiningPhilosophersProblem
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Burak
